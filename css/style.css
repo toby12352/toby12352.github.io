@@ -22,7 +22,7 @@ header {
   height: 100vh; /*100% of the viewport*/
   position: relative;
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../images/keyboard_with_cup_of_coffee.jpg);
+    url(../images/home.jpg);
   background-size: cover;
   color: #fff;
 }
@@ -40,19 +40,21 @@ nav {
 }
 
 .home-page{
+  font-family: 'Rubik', sans-serif;
   text-decoration: none;
   color: #fff;
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 18px;
 }
 
 .navi-links {
+  font-family: 'Rubik', sans-serif;
   display: flex;
-  gap: 32px;
+  gap: 30px;
 }
 
 .navi-link:link,
 .navi-link:visited {
+  font-family: 'Rubik', sans-serif;
   text-decoration: none;
   color: #fff;
 }
@@ -283,11 +285,10 @@ h2 {
 
 .contact-img-box {
   background-image: linear-gradient(
-      to right,
-      rgba(25, 112, 194, 0.566),
-      rgba(77, 171, 247, 0.508)
+    rgba(94,131,182,0.5),
+    #112745
     ),
-    url(../images/florian-klauer-mk7D-4UCfmg-unsplash.jpg);
+    url(../images/contact1.jpg);
   background-size: cover;
   background-position: center;
 }
