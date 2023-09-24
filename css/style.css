@@ -39,6 +39,13 @@ nav {
   padding-top: 32px;
 }
 
+.home-page{
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .navi-links {
   display: flex;
   gap: 32px;
