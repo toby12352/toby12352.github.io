@@ -184,6 +184,7 @@ h2 {
 }
 
 .img-container {
+  margin-left:22px;
   width: 80px;
   height: 80px;
   overflow: hidden;
