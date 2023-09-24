@@ -39,10 +39,6 @@ nav {
   padding-top: 32px;
 }
 
-#username{
-  font-size: 20px;
-}
-
 .navi-links {
   display: flex;
   gap: 32px;
