@@ -2,20 +2,20 @@
   "name": "project_1",
   "version": "1.0.0",
   "description": "Website Portfolio",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hlahtoo/Portfolio-website"
+    "url": "https://github.com/toby12352/toby12352.github.io"
   },
   "author": "Hla Htoo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hlahtoo/Portfolio-website/issues"
+    "url": "https://github.com/toby12352/toby12352.github.io/issues"
   },
-  "homepage": "https://github.com/hlahtoo/Portfolio-website#readme",
+  "homepage": "https://github.com/toby12352/toby12352.github.io#readme",
   "devDependencies": {
     "eslint": "^8.49.0",
     "eslint-config-standard": "^17.1.0",
